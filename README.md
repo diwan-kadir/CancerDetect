@@ -1,12 +1,13 @@
 # CancerDetect
 
-Team : Kadir Diwan | Rajeev Bandi | Arfah Upade
+Team : Kadir Diwan | Rajeev Bandi | Arfah Upade 
 
 Project : Detection of Cancer using Genome Profiles
 
 Reference : git link of the Github repo we referred
 
 About :
+
 The idea of the project is to predict the possible probablity occurence of 33 differnt types of Cancer (including 10 rare types) using Genome profile.
 The prediction model is an Neural network , CNN to be more specfic (Although datsaet does not comprises of Images).
 The dataset used for training is TCGA dataset (The Cancer Genome Atlas Project) which is used to train and test the neural network.
