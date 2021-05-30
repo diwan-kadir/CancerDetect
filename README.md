@@ -2,7 +2,7 @@
 
 Team : Kadir Diwan | Rajeev Bandi | Arfah Upade
 
-Project : Detection of cancer using Genome Profile
+Project : Detection of Cancer using Genome Profiles
 
 Reference : git link of the Github repo we referred
 
