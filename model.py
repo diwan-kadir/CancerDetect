@@ -89,7 +89,6 @@ print('Test accuracy:', score[1])
 
 
 
-
 predict = model.predict_classes(x_test)
 y_test_class = np.where(y_test == 1)[-1]
 y_train_class = np.where(y_train == 1)[-1]
