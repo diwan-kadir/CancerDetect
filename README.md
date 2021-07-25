@@ -1,12 +1,10 @@
-# CancerDetect
+# CancerDetect - Prediction & Detection of Cancer, based on gene profiles using Deep Learning
 
 Team : Kadir Diwan | Rajeev Bandi | Arfah Upade 
 
 Project : Detection of Cancer using Genome Profiles
 
 Reference : git link of the Github repo we referred
-
-# CancerDetect - Prediction & Detection of Cancer, based on gene profiles using Deep Learning
 
 ## I. INTRODUCTION
 Cancer is the second leading cause of death globally with an estimated amount of 9.6 million deaths, or one in six deaths, estimated in 2018 by the World Health Organisation (WHO) [28]. A lot of the time, prevention of diseases like Cancer, Diabetes, and Alzheimers are treated late after their onset, as detection is done late.
