@@ -68,6 +68,7 @@ GPU - Graphical Processing Unit
 
 
 https://user-images.githubusercontent.com/56472876/126893703-412db8e6-5c10-44f0-b0ea-2eea9f76b171.mp4
+https://www.youtube.com/watch?v=vIoCR4eFcnc
 
 
 
